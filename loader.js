@@ -1,12 +1,3 @@
-let cobblestone = {
-  "item_type": "block",
-    "item_name": "cobblestone",
-    "textures": {
-      "0": "textures/cobblestone/0.png",
-      "1": "textures/cobblestone/1.png"
-      }
-}
-
 let cobby = "https://raw.githubusercontent.com/epicacrylic/lntpackbuilder/main/blocks/cobblestone.json"
 
 function imagesFromJSON() {
