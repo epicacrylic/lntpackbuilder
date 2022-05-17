@@ -1,0 +1,18 @@
+[
+  "pack": {
+    "textures": {
+	   "base": [
+       "blocks": [
+         "cobblestone": "blocks/cobblestone.json",
+         "stone": "blocks/stone.json"
+         "dirt":"blocks/dirt.json",
+       ],
+
+      "items": [
+        "stick": "items.stick.json"
+        "wooden_pickaxe": "items/wooden_pickaxe.json"
+      ]
+     ]
+   }
+ }
+]
