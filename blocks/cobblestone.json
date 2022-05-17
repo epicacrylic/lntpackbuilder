@@ -1,8 +1,8 @@
-[
-  "item_type": block,
-  "item_name": "cobblestone",
-  "textures": [
-    "0": "https://raw.githubusercontent.com/epicacrylic/lntpackbuilder/main/blocks/textures/cobblestone/0.png",
-    "1": "https://raw.githubusercontent.com/epicacrylic/lntpackbuilder/main/blocks/textures/cobblestone/1.png"
-  ]
-]
+{
+   "item_type":"block",
+   "item_name":"cobblestone",
+   "textures":{
+      "0":"https://raw.githubusercontent.com/epicacrylic/lntpackbuilder/main/blocks/textures/cobblestone/0.png",
+      "1":"https://raw.githubusercontent.com/epicacrylic/lntpackbuilder/main/blocks/textures/cobblestone/1.png"
+   }
+}
