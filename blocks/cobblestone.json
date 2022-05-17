@@ -2,7 +2,7 @@
    "item_type":"block",
    "item_name":"cobblestone",
    "textures":{
-      "0":"textures/cobblestone/0.png",
-      "1":"textures/cobblestone/1.png"
+      "0":"G:/GitHub/LnT/lntpackbuilder/blocks/textures/cobblestone/0.png",
+      "1":"G:/GitHub/LnT/lntpackbuilder/blocks/textures/cobblestone/1.png"
    }
 }
